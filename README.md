@@ -162,11 +162,11 @@
 
 #### Constrained ANNS
 
-1. [AnalyticDB-V: a hybrid analytical engine towards query fusion for structured and unstructured data, VLDB'20](https://www.vldb.org/pvldb/vol13/p3152-wei.pdf)
+1. **[AnalyticDB-V: a hybrid analytical engine towards query fusion for structured and unstructured data, VLDB'20](https://www.vldb.org/pvldb/vol13/p3152-wei.pdf)**
 2. [PASE: PostgreSQL Ultra-High-Dimensional Approximate Nearest Neighbor Search Extension, SIGMOD'20](https://dl.acm.org/doi/abs/10.1145/3318464.3386131)
 3. [HQANN: Efficient and Robust Similarity Search for Hybrid Queries with Structured and Unstructured Constraints, CIKM'22](https://dl.acm.org/doi/abs/10.1145/3511808.3557610)
 4. [VBase: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity, OSDI'23](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)
-5. [An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint, NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/32e41d6b0a51a63a9a90697da19d235d-Abstract-Conference.html)
+5. **[An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint, NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/32e41d6b0a51a63a9a90697da19d235d-Abstract-Conference.html)**
 
 #### ANNS Benchmarking
 
@@ -177,11 +177,11 @@
 
 ### Other Vector Database Papers
 
-1. [Milvus - A Purpose-Built Vector Data Management System, SIGMOD'21](https://dl.acm.org/doi/10.1145/3448016.3457550)
+1. **[Milvus - A Purpose-Built Vector Data Management System, SIGMOD'21](https://dl.acm.org/doi/10.1145/3448016.3457550)**
 2. [TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data, SIGMOD'22](https://dl.acm.org/doi/10.1145/3514221.3517897)
 3. [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge, CoRR'23](https://arxiv.org/abs/2310.11703)
 4. [When Large Language Models Meet Vector Databases: A Survey, CoRR'24](https://arxiv.org/abs/2402.01763)
-5. [Survey of Vector Database Management Systems, VLDB'24](https://link.springer.com/article/10.1007/s00778-024-00864-x)
+5. **[Survey of Vector Database Management Systems, VLDB'24](https://link.springer.com/article/10.1007/s00778-024-00864-x)**
 6. [Rethinking Similarity Search: Embracing Smarter Mechanisms over Smarter Data, CoRR'23](https://arxiv.org/abs/2308.00909)
 7. [Analyzing Embedding Models for Embedding Vectors in Vector databases, ICTBIG'23](https://www.researchgate.net/publication/379106891_Analyzing_Embedding_Models_for_Embedding_Vectors_in_Vector_Databases)
 
@@ -190,17 +190,17 @@
 1. [PandaDB: Understanding Unstructured Data in Graph Database, CoRR'21](https://arxiv.org/pdf/2107.01963)
 2. [PandaDB: an AI-native graph database for unified managing structured and unstructured data, DASFAA'23](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_53)
 3. [A Model and Query Language for Multi-modal Hybrid Query, SSDBM'24](https://dl.acm.org/doi/10.1145/3676288.3676291)
-4. [MMDBench: A Benchmark for Hybrid Query in Multimodal Database, Benchcouncil'24](https://link.springer.com/chapter/10.1007/978-981-97-0316-6_6)
+4. **[MMDBench: A Benchmark for Hybrid Query in Multimodal Database, Benchcouncil'24](https://link.springer.com/chapter/10.1007/978-981-97-0316-6_6)**
 
 ## AI for MMDB
 
-1. [Multimodal Neural Databases, SIGIR'23](https://dl.acm.org/doi/10.1145/3539618.3591930)
+1. **[Multimodal Neural Databases, SIGIR'23](https://dl.acm.org/doi/10.1145/3539618.3591930)**
 
 ### LLM for MMDB
 
 1. [CAESURA: Language Models as Multi-Modal Query Planners, CIDR'24](https://www.cidrdb.org/cidr2024/papers/p14-urban.pdf)
 2. [Demonstrating CAESURA: Language Models as Multi-Modal Query Planners, SIGMOD'24](https://dl.acm.org/doi/10.1145/3626246.3654732)
-3. [Databases Unbound: Querying All of the World's Bytes with AI, VLDB'24](https://www.vldb.org/pvldb/vol17/p4546-madden.pdf)
+3. **[Databases Unbound: Querying All of the World's Bytes with AI, VLDB'24](https://www.vldb.org/pvldb/vol17/p4546-madden.pdf)**
 4. [A Declarative System For Optimizing AI Workloads, CoRR'24](https://arxiv.org/abs/2405.14696)
 5. [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data, CoRR'24](https://arxiv.org/abs/2407.11418)
 
@@ -220,6 +220,6 @@
 
 ### Multi-Modal Retrieval
 
-1. [The Platonic Representation Hypothesis, CoRR'24](https://arxiv.org/abs/2405.07987)
+1. **[The Platonic Representation Hypothesis, CoRR'24](https://arxiv.org/abs/2405.07987)**
 2. [Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, CoRR'24](https://arxiv.org/abs/2308.14263)
 3. [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality, ICDE'24](https://arxiv.org/abs/2312.06397)
