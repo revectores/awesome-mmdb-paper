@@ -213,6 +213,8 @@
 
 ## Multi-Modal Machine Learning
 
+1. **[The Platonic Representation Hypothesis, CoRR'24](https://arxiv.org/abs/2405.07987)**
+
 ### MMML Survey
 
 1. [Multimodal Machine Learning: A Survey and Taxonomy, TPAM'18](https://people.ict.usc.edu/~gratch/CSCI534/Readings/Baltrusaitis-MMML-survey.pdf)
@@ -220,6 +222,26 @@
 
 ### Multi-Modal Retrieval
 
-1. **[The Platonic Representation Hypothesis, CoRR'24](https://arxiv.org/abs/2405.07987)**
-2. [Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, CoRR'24](https://arxiv.org/abs/2308.14263)
-3. [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality, ICDE'24](https://arxiv.org/abs/2312.06397)
+1. [UniIR: Training and Benchmarking Universal Multimodal Information Retrievers, CoRR'23](https://arxiv.org/abs/2311.17136)
+3. [Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, CoRR'24](https://arxiv.org/abs/2308.14263)
+4. [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality, ICDE'24](https://arxiv.org/abs/2312.06397)
+
+### Multi-Modal RAG
+
+1. **[Retrieving Multimodal Information for Augmented Generation: A Survey, ACL'23](https://aclanthology.org/2023.findings-emnlp.314v2.pdf)**
+2. [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs, CVPR'24](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.pdf)
+
+### Vision Question Answering
+
+#### LLM-Based VQA
+
+1. [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA, AAAI'22](https://cdn.aaai.org/ojs/20215/20215-13-24228-1-2-20220628.pdf)
+2. [Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?, ACL'23](https://aclanthology.org/2023.emnlp-main.925/)
+3. [KAT: A Knowledge Augmented Transformer for Vision-and-Language, ACL'22](https://aclanthology.org/2022.naacl-main.70/)
+4. [RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training, MM'23](https://dl.acm.org/doi/10.1145/3581783.3611830)
+
+##### LLM-Based VQA with MMRAG
+
+1. [Retrieval Augmented Visual Question Answering with Outside Knowledge, EMNLP'22](https://aclanthology.org/2022.emnlp-main.772/)
+2. [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text, EMNLP'22](https://aclanthology.org/2022.emnlp-main.375/)
+
