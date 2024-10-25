@@ -137,6 +137,14 @@
 
 ## Vector Database
 
+1. **[Milvus - A Purpose-Built Vector Data Management System, SIGMOD'21](https://dl.acm.org/doi/10.1145/3448016.3457550)**
+2. [TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data, SIGMOD'22](https://dl.acm.org/doi/10.1145/3514221.3517897)
+3. [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge, CoRR'23](https://arxiv.org/abs/2310.11703)
+4. [When Large Language Models Meet Vector Databases: A Survey, CoRR'24](https://arxiv.org/abs/2402.01763)
+5. **[Survey of Vector Database Management Systems, VLDB'24](https://link.springer.com/article/10.1007/s00778-024-00864-x)**
+6. [Rethinking Similarity Search: Embracing Smarter Mechanisms over Smarter Data, CoRR'23](https://arxiv.org/abs/2308.00909)
+7. [Analyzing Embedding Models for Embedding Vectors in Vector databases, ICTBIG'23](https://www.researchgate.net/publication/379106891_Analyzing_Embedding_Models_for_Embedding_Vectors_in_Vector_Databases)
+
 ### ANNS
 
 #### Graph-Based Index
@@ -175,72 +183,92 @@
 3. [Reproducibility protocol for ANN-Benchmarks: A benchmarking tool for approximate nearest neighbor search algorithm](https://itu.dk/people/maau/additional/2022-ann-benchmarks-reproducibility.pdf)
 4. [VectorDBBench](https://github.com/zilliztech/VectorDBBench)
 
-### Other Vector Database Papers
 
-1. **[Milvus - A Purpose-Built Vector Data Management System, SIGMOD'21](https://dl.acm.org/doi/10.1145/3448016.3457550)**
-2. [TASTI: Semantic Indexes for Machine Learning-based Queries over Unstructured Data, SIGMOD'22](https://dl.acm.org/doi/10.1145/3514221.3517897)
-3. [A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge, CoRR'23](https://arxiv.org/abs/2310.11703)
-4. [When Large Language Models Meet Vector Databases: A Survey, CoRR'24](https://arxiv.org/abs/2402.01763)
-5. **[Survey of Vector Database Management Systems, VLDB'24](https://link.springer.com/article/10.1007/s00778-024-00864-x)**
-6. [Rethinking Similarity Search: Embracing Smarter Mechanisms over Smarter Data, CoRR'23](https://arxiv.org/abs/2308.00909)
-7. [Analyzing Embedding Models for Embedding Vectors in Vector databases, ICTBIG'23](https://www.researchgate.net/publication/379106891_Analyzing_Embedding_Models_for_Embedding_Vectors_in_Vector_Databases)
 
-## Structural Multi-Modal
+## Explicit Structured Multi-Modal
 
 1. [PandaDB: Understanding Unstructured Data in Graph Database, CoRR'21](https://arxiv.org/pdf/2107.01963)
 2. [PandaDB: an AI-native graph database for unified managing structured and unstructured data, DASFAA'23](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_53)
 3. [A Model and Query Language for Multi-modal Hybrid Query, SSDBM'24](https://dl.acm.org/doi/10.1145/3676288.3676291)
 4. **[MMDBench: A Benchmark for Hybrid Query in Multimodal Database, Benchcouncil'24](https://link.springer.com/chapter/10.1007/978-981-97-0316-6_6)**
 
-## AI for MMDB
 
-1. **[Multimodal Neural Databases, SIGIR'23](https://dl.acm.org/doi/10.1145/3539618.3591930)**
 
-### LLM for MMDB
-
-1. [CAESURA: Language Models as Multi-Modal Query Planners, CIDR'24](https://www.cidrdb.org/cidr2024/papers/p14-urban.pdf)
-2. [Demonstrating CAESURA: Language Models as Multi-Modal Query Planners, SIGMOD'24](https://dl.acm.org/doi/10.1145/3626246.3654732)
-3. **[Databases Unbound: Querying All of the World's Bytes with AI, VLDB'24](https://www.vldb.org/pvldb/vol17/p4546-madden.pdf)**
-4. [A Declarative System For Optimizing AI Workloads, CoRR'24](https://arxiv.org/abs/2405.14696)
-5. [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data, CoRR'24](https://arxiv.org/abs/2407.11418)
-
-### Video Database
+## Video Database
 
 1. [A Survey on Visual Content-Based Video Indexing and Retrieval, SMC'11](https://ieeexplore.ieee.org/document/5729374)
 2. [VIVA: An End-to-End System for Interactive Video Analytics, CIDR'22](https://www.cidrdb.org/cidr2022/papers/p75-kang.pdf)
 3. [Optimizing Video Analytics with Declarative Model Relationships, VLDB'22](https://dl.acm.org/doi/10.14778/3570690.3570695)
 4. [支持深度学习的视觉数据库管理系统研究进展, 软件学报'23](https://jos.org.cn/html/2024/3/7075.htm)
 
-## Multi-Modal Machine Learning
+
+
+## General Multi-Modal
+
+1. **[Multimodal Neural Databases, SIGIR'23](https://dl.acm.org/doi/10.1145/3539618.3591930)**
+1. **[Databases Unbound: Querying All of the World's Bytes with AI, VLDB'24](https://www.vldb.org/pvldb/vol17/p4546-madden.pdf)**
+1. [A Declarative System For Optimizing AI Workloads, CoRR'24](https://arxiv.org/abs/2405.14696)
+1. [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data, CoRR'24](https://arxiv.org/abs/2407.11418)
+
+### Multi-Modal Query Optimization
+
+#### Machine Learning Tasks Optimization
+
+1. [AIDB: a Sparsely Materialized Database for Queries using Machine Learning, DEEM'24](https://dl.acm.org/doi/10.1145/3650203.3663329)
+2. [Hydro: Adaptive Query Processing of ML Queries, CoRR'24](https://arxiv.org/abs/2403.14902)
+
+#### LLM-Based Query Optimization
+
+1. [Towards Multi-Modal DBMSs for Seamless Querying of Texts and Tables, CoRR'23](https://arxiv.org/pdf/2304.13559)
+2. [Symphony: Towards Natural Language Query Answering over Multi-modal Data Lakes, CIDR'23](https://www.cidrdb.org/cidr2023/papers/p51-chen.pdf)
+3. [Demonstrating CAESURA: Language Models as Multi-Modal Query Planners, SIGMOD'24](https://dl.acm.org/doi/10.1145/3626246.3654732)
+4. [CAESURA: Language Models as Multi-Modal Query Planners, CIDR'24](https://www.cidrdb.org/cidr2024/papers/p14-urban.pdf)
+5. [No More Optimization Rules - LLM-enabled Policy-based Multi-modal Query Optimizer, CoRR'24](https://arxiv.org/abs/2403.13597)
+
+
+
+
+
+
+
+# Multi-Modal Machine Learning
 
 1. **[The Platonic Representation Hypothesis, CoRR'24](https://arxiv.org/abs/2405.07987)**
 
-### MMML Survey
+
+
+## MMML Survey
 
 1. [Multimodal Machine Learning: A Survey and Taxonomy, TPAM'18](https://people.ict.usc.edu/~gratch/CSCI534/Readings/Baltrusaitis-MMML-survey.pdf)
 2. [Foundations and Trends in Multimodal Machine Learning - Principles, Challenges, and Open Questions, CSUR'24](https://dl.acm.org/doi/10.1145/3656580)
 
-### Multi-Modal Retrieval
+
+
+## Multi-Modal Retrieval
 
 1. [UniIR: Training and Benchmarking Universal Multimodal Information Retrievers, CoRR'23](https://arxiv.org/abs/2311.17136)
 3. [Cross-Modal Retrieval: A Systematic Review of Methods and Future Directions, CoRR'24](https://arxiv.org/abs/2308.14263)
 4. [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality, ICDE'24](https://arxiv.org/abs/2312.06397)
 
-### Multi-Modal RAG
+
+
+## Multi-Modal RAG
 
 1. **[Retrieving Multimodal Information for Augmented Generation: A Survey, ACL'23](https://aclanthology.org/2023.findings-emnlp.314v2.pdf)**
 2. [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs, CVPR'24](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/papers/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.pdf)
 
-### Vision Question Answering
 
-#### LLM-Based VQA
+
+## Vision Question Answering
+
+### LLM-Based VQA
 
 1. [An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA, AAAI'22](https://cdn.aaai.org/ojs/20215/20215-13-24228-1-2-20220628.pdf)
 2. [Can Pre-trained Vision and Language Models Answer Visual Information-Seeking Questions?, ACL'23](https://aclanthology.org/2023.emnlp-main.925/)
 3. [KAT: A Knowledge Augmented Transformer for Vision-and-Language, ACL'22](https://aclanthology.org/2022.naacl-main.70/)
 4. [RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training, MM'23](https://dl.acm.org/doi/10.1145/3581783.3611830)
 
-##### LLM-Based VQA with MMRAG
+### LLM-Based VQA with MMRAG
 
 1. [Retrieval Augmented Visual Question Answering with Outside Knowledge, EMNLP'22](https://aclanthology.org/2022.emnlp-main.772/)
 2. [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text, EMNLP'22](https://aclanthology.org/2022.emnlp-main.375/)
