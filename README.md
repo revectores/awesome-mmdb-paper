@@ -194,12 +194,25 @@
 
 
 
-## Video Database
+## Visual Database
 
 1. [A Survey on Visual Content-Based Video Indexing and Retrieval, SMC'11](https://ieeexplore.ieee.org/document/5729374)
-2. [VIVA: An End-to-End System for Interactive Video Analytics, CIDR'22](https://www.cidrdb.org/cidr2022/papers/p75-kang.pdf)
-3. [Optimizing Video Analytics with Declarative Model Relationships, VLDB'22](https://dl.acm.org/doi/10.14778/3570690.3570695)
-4. [支持深度学习的视觉数据库管理系统研究进展, 软件学报'23](https://jos.org.cn/html/2024/3/7075.htm)
+2. [Optasia: A Relational Platform for Efficient Large-Scale Video Analytics, SoCC'16](https://dl.acm.org/doi/10.1145/2987550.2987564)
+3. [NoScope: Optimizing Neural Network Queries over Video at Scale, VLDB'17](https://www.vldb.org/pvldb/vol10/p1586-kang.pdf)
+4. [Scanner: Efficient Video Analysis at Scale, ToG'18](https://dl.acm.org/doi/10.1145/3197517.3201394)
+5. [Accelerating Machine Learning Inference with Probabilistic Predicates, SIGMOD'18](https://dl.acm.org/doi/10.1145/3183713.3183751)
+6. [LightDB: A DBMS for Virtual Reality Video, VLDB'18](https://www.vldb.org/pvldb/vol11/p1192-haynes.pdf)
+7. [Physical Representation-based Predicate Optimization for a Visual Analytics Database, ICDE'19](https://arxiv.org/abs/1806.04226)
+8. [VISTA: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale, SIGMOD'20](https://dl.acm.org/doi/abs/10.1145/3318464.3389709)
+9. [MIRIS: Fast Object Track Queries in Video, SIGMOD'20](https://dl.acm.org/doi/10.1145/3318464.3389692)
+10. [Jointly Optimizing Preprocessing and Inference for DNN-based Visual Analytics, VLDB'21](https://dl.acm.org/doi/10.14778/3425879.3425881)
+11. [VIVA: An End-to-End System for Interactive Video Analytics, CIDR'22](https://www.cidrdb.org/cidr2022/papers/p75-kang.pdf)
+12. [Optimizing Video Analytics with Declarative Model Relationships, VLDB'22](https://dl.acm.org/doi/10.14778/3570690.3570695)
+13. [Optimizing Machine Learning Inference Queries with Correlative Proxy Models, VLDB'22](https://www.vldb.org/pvldb/vol15/p2032-yang.pdf)
+14. [Optimizing Video Analytics with Declarative Model Relationships, VLDB'22](https://dl.acm.org/doi/10.14778/3570690.3570695)
+15. [FiGO: Fine-Grained Query Optimization in Video Analytics, SIGMOD'22](https://dl.acm.org/doi/abs/10.1145/3514221.3517857) 
+16. [数据受限条件下的多模态处理技术综述, 中国图象图形学报'22](https://www.cjig.cn/zh/article/doi/10.11834/jig.220049/)
+17. [支持深度学习的视觉数据库管理系统研究进展, 软件学报'23](https://jos.org.cn/html/2024/3/7075.htm)
 
 
 
@@ -209,6 +222,7 @@
 1. **[Databases Unbound: Querying All of the World's Bytes with AI, VLDB'24](https://www.vldb.org/pvldb/vol17/p4546-madden.pdf)**
 1. [A Declarative System For Optimizing AI Workloads, CoRR'24](https://arxiv.org/abs/2405.14696)
 1. [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data, CoRR'24](https://arxiv.org/abs/2407.11418)
+1. [Chat2Data: An Interactive Data Analysis System with RAG, Vector Databases and LLMs, VLDB'24](https://www.vldb.org/pvldb/vol17/p4481-li.pdf)
 
 ### Multi-Modal Query Optimization
 
