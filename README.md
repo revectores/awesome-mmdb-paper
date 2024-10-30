@@ -206,7 +206,6 @@
 8. [VISTA: Optimized System for Declarative Feature Transfer from Deep CNNs at Scale, SIGMOD'20](https://dl.acm.org/doi/abs/10.1145/3318464.3389709)
 9. [MIRIS: Fast Object Track Queries in Video, SIGMOD'20](https://dl.acm.org/doi/10.1145/3318464.3389692)
 10. [Jointly Optimizing Preprocessing and Inference for DNN-based Visual Analytics, VLDB'21](https://dl.acm.org/doi/10.14778/3425879.3425881)
-11. [VIVA: An End-to-End System for Interactive Video Analytics, CIDR'22](https://www.cidrdb.org/cidr2022/papers/p75-kang.pdf)
 12. [Optimizing Video Analytics with Declarative Model Relationships, VLDB'22](https://dl.acm.org/doi/10.14778/3570690.3570695)
 13. [Optimizing Machine Learning Inference Queries with Correlative Proxy Models, VLDB'22](https://www.vldb.org/pvldb/vol15/p2032-yang.pdf)
 14. [Optimizing Video Analytics with Declarative Model Relationships, VLDB'22](https://dl.acm.org/doi/10.14778/3570690.3570695)
@@ -241,7 +240,13 @@
 
 
 
+## Interactive Database
 
+1. [VIVA: An End-to-End System for Interactive Video Analytics, CIDR'22](https://www.cidrdb.org/cidr2022/papers/p75-kang.pdf)
+2. [VOCAL: Video Organization and Interactive Compositional AnaLytics, CIDR'22](https://www.cidrdb.org/cidr2022/papers/p41-daum.pdf)
+3. [SeeSaw: Interactive Ad-hoc Search Over Image Databases, SIGMOD'22](https://dl.acm.org/doi/10.1145/3626754)
+4. [Demonstration of ThalamusDB: Answering Complex SQL Queries with Natural Language Predicates on Multi-Modal Data, SIGMOD'23](https://dl.acm.org/doi/10.1145/3555041.3589730)
+5. [ThalamusDB: Approximate Query Processing on Multi-Modal Data, SIGMOD'24](https://dl.acm.org/doi/10.1145/3654989)
 
 
 
