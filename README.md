@@ -63,6 +63,7 @@
 2. [RHEEM: enabling cross-platform data processing: may the big data be with you!, VLDB'18](https://dl.acm.org/doi/10.14778/3236187.3236195)
 3. [RheemStudio: Cross-Platform Data Analytics Made Easy, ICDE'18](https://ieeexplore.ieee.org/document/8509400)
 4. [RHEEMix in The Data Jungle: A Cost-based Optimizer for Cross-platform Systems, VLDB'20](https://link.springer.com/article/10.1007/s00778-020-00612-x)
+5. [Apache Wayang: A Unified Data Analytics Framework, SIGMOD RECORD'23](https://doi.org/10.1145/3631504.3631510)
 
 ### Estocada
 
