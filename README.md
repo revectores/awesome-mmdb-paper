@@ -176,6 +176,7 @@
 3. [HQANN: Efficient and Robust Similarity Search for Hybrid Queries with Structured and Unstructured Constraints, CIKM'22](https://dl.acm.org/doi/abs/10.1145/3511808.3557610)
 4. [VBase: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity, OSDI'23](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)
 5. **[An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint, NeurIPS'23](https://proceedings.neurips.cc/paper_files/paper/2023/hash/32e41d6b0a51a63a9a90697da19d235d-Abstract-Conference.html)**
+6. [Approximate Nearest Neighbor Search with Window Filters, ICML'24](https://dl.acm.org/doi/10.5555/3692070.3692567)
 
 #### ANNS Benchmarking
 
